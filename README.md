@@ -4,3 +4,7 @@ How It Works
 3. The domain name is sent to the WHOIS server, which returns the WHOIS information.
 4. The response is displayed to the user.
 5. The process repeats until the user types 'exit'.
+
+Acknowledgments
+Python documentation for socket programming.
+IANA WHOIS service, which provides the WHOIS protocol for querying domain information.
